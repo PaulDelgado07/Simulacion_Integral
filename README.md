@@ -23,14 +23,6 @@ utilizando Teoría de Colas y políticas de inventario de recursos computacional
 | Tiempo de simulación | 60 minutos |
 | Réplicas | 30 |
 
-## Resultados Obtenidos
-| Métrica | Valor |
-|---|---|
-| IC 95% del tiempo de espera en cola (Wq) | [0.0497 , 0.0521] minutos |
-| Promedio de predicciones fallidas (s=50) | 1434.43 |
-| Utilización teórica de nodos GPU (ρ) | 75.0% |
-| Punto de reorden óptimo encontrado | s = 130 créditos |
-
 ## Tecnologías utilizadas
 - Python 3
 - SimPy
